@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bill Chen Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <!--導覽按鈕區塊-->
+    <nav id="navbar">
+      <ul class="nav-list">
+        <li><a class="nav-link" href="#about">About</a></li>
+        <li><a class="nav-link" href="#projects">Projects</a></li>
+        <li><a class="nav-link" href="#experience">Experience</a></li>
+        <li><a class="nav-link" href="#background">Background</a></li>
+        <li><a class="nav-link" href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <!--導覽列結束-->
+    <header id="welcome-section">
+      <div class="welcome-text">
+        <div class="img-container">
+          <img id="front" class="headshot" width="200" src="https://i.postimg.cc/xTnKpV4N/Gemini-Generated-Image-whsrp6whsrp6whsr.png">
+          <img id="mid" width="200" src="https://i.postimg.cc/q7B1KvVW/revised-2.png">
+          <img id="back" width="200" src="https://i.postimg.cc/hPBVy8K6/Gemini-Generated-Image-y5ce8ny5ce8ny5ce-Photoroom-1.png">
+        </div>
+      <h1>Hey this is Bill</h1>
+      <p>Assistant Researcher · International Affairs · Chinese Management Association (CMA)</p>
+      <p class="tagline">Connecting people, projects, and organizations across borders</p>
+      </div>
+    </header>
+    <!--這裡是about區域-->
+    <section class="scroll-sec" id="about">
+      <div class="about-img">
+      <img id="about-img" src="https://i.postimg.cc/NfjK6p5P/Gemini-Generated-Image-ldwxycldwxycldwx-Photoroom.png">
+      <h2>About</h2>
+      </div>
+      <div class="about-text">
+      <p>I’m an assistant researcher at the Chinese Management Association (CMA), supporting the Workforce Development Agency (WDA) in APEC HRDWG projects and facilitating bilateral collaboration with partners in Australia, Belgium, and Thailand. My work focuses on bilingual communication, project coordination, and report drafting for cross-border initiatives.</p>
+      <p>Beyond my current role, I’ve also worked in academic coordination, film translation, and speech therapy training — experiences that have strengthened my ability to communicate across disciplines and cultures.</p>
+      </div>
+    </section>
+    <!--這裡是projects區域-->
+    <section class="scroll-sec" id="projects">
+      <div class="project-img1">
+      <img id="project-img" src="https://i.postimg.cc/vH7dmsQk/Gemini-Generated-Image-l2m2rnl2m2rnl2m2-Photoroom.png">
+      <h2 class="project-tile">Projects</h2>
+      </div>
+      <div class="projects-grid">
+      <!--這裡是project1區域-->
+      <div class="projects">
+        <a id="profile-link" href="https://money.udn.com/money/story/5613/8888925" target="_blank">
+        <p><strong>Project:</strong></p> 
+        <p>Empowering a Green Future: AI and Inclusive Talent Development International Forum (2025)</p>
+        <hr>
+        <p><strong>Role:</strong></p> 
+        <p>International Project Operation — Event coordination, speaker liason, and agenda design</p>
+        <hr>
+        <p><strong>What I did:</strong></p>
+        <p>Developed forum themes connecting AI innovation and green transition.</p>
+        <p>Invited and coordinated keynote speakers and experts from overseas institutions.</p>
+        <p>Provided on-site logistical and communication support for international participants.</p>
+        <hr>
+        <img class="project-img" width="600" src="https://i.postimg.cc/HxKJfNpc/20250724-274.jpg">
+        </a>
+      </div>
+      <!--這裡是project2-->
+      <div class="projects">
+        <a href="https://report.ndc.gov.tw/ReportFront/ReportDetail/detail?sysId=C11400966" target="_blank">
+        <p><strong>Project:</strong></p> 
+        <p>The 50th APEC Human Resources Development Working Group (HRDWG) Plenary — Jeju, Korea (2025)</p>
+        <hr>
+        <p><strong>Role:</strong></p> 
+        <p>International Project Operation — Meeting participation support and project briefing preparation</p>
+        <hr>
+        <p><strong>What I did:</strong></p>
+        <p>Provided logistical support for WDA officials attending the 50th APEC HRDWG Plenary.</p>
+        <p>Summarized and compiled proposed projects from member economies.</p>
+        <p>Prepared presentation materials introducing WDA’s APEC initiatives to member economies.</p>
+        <hr>
+        <img class="project-img" width="600" src="https://i.postimg.cc/x84TWr5f/513193218-9854010444697603-2320255111185349524-n.jpg">
+        </a>
+      </div>
+      <!--這裡是project3-->
+      <div class="projects">
+        <a href="https://www.wda.gov.tw/en/News_Content.aspx?n=179&s=16948" target="_blank">
+        <p><strong>Project:</strong></p> 
+        <p>Workshop on the ROPES: Forging Green Talent Solutions for an Inclusive Future (2024 APEC Funded Project)</p>
+        <hr>
+        <p><strong>Role:</strong></p> 
+        <p>International Project Operation — Event coordination, funding proposal drafting, and speakre liason</p>
+        <hr>
+        <p><strong>What I did:</strong></p>
+        <p>Drafted the APEC proposal and funding application for Taiwan's WDA.</p>
+        <p>Coordinated with international green experts to finalize session logistics.</p>
+        <p>Successfully gathered delegates from 10 APEC economies for the workshop.</p>
+        <hr>
+        <img class="project-img" width="600" src="https://i.postimg.cc/wBFTcdDb/5308742-a17fdc6d-d22f-4951-899f-88304f31866d.jpg">
+        </a>
+      </div>
+      <!--這裡是project4-->
+      <div class="projects">
+        <a href="https://www.cna.com.tw/news/ahel/202406250335.aspx" target="_blank">
+        <p><strong>Project:</strong></p> 
+        <p>Cultivating AI Pioneers for the Green Revolution — International Forum (2024)</p>
+        <hr>
+        <p><strong>Role:</strong></p> 
+        <p>International Project Operation — Event coordination, content preparation, and speaker liason</p>
+        <hr>
+        <p><strong>What I did:</strong></p>
+        <p>Coordinated with overseas speakers and managed pre-event communication.</p>
+        <p>Provided logistical support for international guests during the forum.</p>
+        <p>Drafted opening remarks for WDA officials and assisted in finalizing the event agenda.</p>
+        <hr>
+        <img class="project-img" width="600" src="https://i.postimg.cc/fTspZSGS/1da80cf7-76ff-422f-83a6-6cb4f91717dd.jpg">
+        </a>
+      </div>
+      </div>
+    </section>
+    <!--這裡是Experience區域-->
+    <section class="scroll-sec" id="experience">
+      <div class="experience-img">
+      <img id="experience-img" src="https://i.postimg.cc/NMXZ46HV/Gemini-Generated-Image-n5asyon5asyon5as-Photoroom.png">
+      <h2>Experience</h2>
+      </div>
+      <div class="timeline">
+        <!--Experience1-->
+        <div class="exp-card">
+          <div class="exp-marker"></div>
+          <div class="exp-content">
+            <img class="exp-img" src="https://i.postimg.cc/L6wG79xm/Gemini-Generated-Image-np9e67np9e67np9e.png">
+            <p class="exp-year"><em>Oct. 2023 - Present</em></p>
+            <h3>Assistant Researcher - Chinese Management Association (CMA)</h3>
+            <P>Coordinate APEC-funded interational projects.</P>
+            <p>Support partnership development with Australia, Belgium, and Thailand.</p>
+            <p>Translate, edit, and draft English/Chinese documents for cross-border collaboration.</p>
+          </div>
+        </div>
+        <!--Experience2-->
+        <div class="exp-card">
+          <div class="exp-marker"></div>
+          <div class="exp-content">
+            <img class="exp-img" src="https://i.postimg.cc/7LTntzK7/Gemini-Generated-Image-lkdcxclkdcxclkdc.png">
+            <p class="exp-year"><em>Oct. 2023 - Sep. 2024</em></p>
+            <h3>Freelance Translator - Independent</h3>
+            <P>Translated movie subtitles and trailers from English to Chinese for distribution companies, ensuring natural tone and accuracy for cinematic context.</P>
+          </div>
+        </div>
+        <!--Experience3-->
+        <div class="exp-card">
+          <div class="exp-marker"></div>
+          <div class="exp-content">
+            <img class="exp-img" src="https://i.postimg.cc/zXxchnb8/Gemini-Generated-Image-93vwb593vwb593vw.png">
+            <p class="exp-year"><em>Jul. 2021 - Mar. 2022</em></p>
+            <h3>Speech-Language Pathology Intern - Toyuan General Hospital</h3>
+            <P>Designed and implemented individualized therapy plans to improve patients' speech and swallowing functions.</P>
+            <p>Collaborated with multidisciplinary medical teams to deliver effective rehabilitation and patient support.</p>
+          </div>
+        </div>
+        <!--Experience4-->
+        <div class="exp-card">
+          <div class="exp-marker"></div>
+          <div class="exp-content">
+            <img class="exp-img" src="https://i.postimg.cc/v8r7g92M/Gemini-Generated-Image-h0r1jvh0r1jvh0r1.png">
+            <p class="exp-year"><em>Jul. 2019 - Sep. 2019</em></p>
+            <h3>Project Assistant - National Taiwan University</h3>
+            <P>Assisted in planning and hosting international workshops.</P>
+            <p>Translated abstracts and promotional materials for global participants.</p>
+          </div>
+        </div>
+        <!--Experience ends-->
+      </div>
+    </sectoin>
+    <!--這裡是Background區塊-->
+    <section class="scroll-sec" id="background">
+      <div class="background-img">
+      <img id="background-img" src="https://i.postimg.cc/0NHFq9fS/Gemini-Generated-Image-65z9c65z9c65z9c6-Photoroom.png">
+      <h2>Background</h2>
+      </div>
+      <!--這裡是Educational background-->
+      <div class="education">
+        <div class="education-img">
+        <img id="edu-img" src="https://i.postimg.cc/Wpf4WSbQ/Gemini-Generated-Image-f3omnpf3omnpf3om-Photoroom.png">
+        <h3>Educational Background</h3>
+        </div>
+        <div id="education-text">
+        <p><strong>University of Taipei</strong> — <i>Graduate Studies in Speech-Language Pathology</i></p>
+        <p><strong>National Sun Yat-sen University</strong> — M.A. in Linguistics</p>
+        <p><strong>Tunghai University</strong> — B.A. in English Literature</p>
+        </div>
+      </div>
+      <!--這裡是Language and communication-->
+      <div class="language">
+        <div class="language-img">
+          <img id="lang-img" src="https://i.postimg.cc/9Fx2LfmS/Gemini-Generated-Image-54ms2i54ms2i54ms-Photoroom.png">
+          <h3>Language & Communication Skills</h3>
+        </div>
+        <div id="lang-text">
+        <p><strong>TOEFL iBT: 108 | TOEIC: 970</strong></p>
+        <p>Fluent in both English and Chinese, with professional experience in bilingual communication.</p>
+        <p>Studied abroad at <strong>Temple University (U.S.)</strong> as an exchange student, achieving a 4.0 GPA while completing all-English coursework and presentations. Comfortable working and communicating in multicultural environments.</p>
+        </div>
+      </div>
+    <!--這裡是Academic engagements區域-->
+      <div class="academic">
+        <div class="academic-img">
+          <img id="academic-img" src="https://i.postimg.cc/6qJg2SNV/Gemini-Generated-Image-c9nydxc9nydxc9ny-Photoroom.png">
+          <h3>Academic & International Engagements</h3>
+        </div>
+        <div id="academic-text">
+          <div class="aca-divider">
+          <h4>1. 2017 — Exchange Student, Temple University, USA</h4>
+          <p>Participated in a global learning program under the Department of Communication Sciences and Disorders.</p>
+          </div>
+          <div class="aca-divider">
+          <h4>2. 2015 — AAOT Online Tutoring Program</h4>
+          <p>Designed and conducted interactive English lessons for students through a remote learning platform.</p>
+          </div>
+          <div class="aca-divider">
+          <h4>3. 2014 — Intern, T-Rex Hearing Center</h4>
+          <p>Designed English teaching activities for children with hearing impairments.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--這裡是Contact區塊-->
+    <footer class="scroll-sec" id="contact">
+      <h2>Open to collaboration and new opportunities.</h2>
+      <ul class="contact-list">
+        <li>
+          <a href="https://i.postimg.cc/8kxZBzzQ/104-logo-Photoroom.png" target="_blank"><img class="oneofour-icon" src="https://i.postimg.cc/yxxkrK6B/104logo-orange.png" alt="104 profile icon">104 Profile</a>
+        </li>
+        <li>
+          <a href="https://github.com/s3618222" target="_blank"><img class="github-icon" src="https://i.postimg.cc/fLnrWWSD/pngimg-com-github-PNG40.png" alt="GitHub icon">GitHub</a>
+        </li>
+        <li>
+          <a href="mailto:s3618222@gmail.com" target="_blank"><img class="email-icon" src="https://i.postimg.cc/RVzcZ60q/Gemini-Generated-Image-lfwx6ulfwx6ulfwx-1-Photoroom.png" alt="email icon">Send a mail</a>
+        </li>
+      </ul>
+      <img class="final-img" src="https://i.postimg.cc/bY5rLdWh/Gemini-Generated-Image-f03dgmf03dgmf03d.png">
+      <p id="footer-slogan">Many Roles, One Passion — Always Ready for the Next Level!</p>
+    </footer>
+  </body>
+</html>
